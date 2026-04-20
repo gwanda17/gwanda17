@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Gwanda!&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Gwen!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer+In+Progress;Passionate+about+Modern+UI/UX;Building+seamless+digital+experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;Freelance+Developer+%40+Pejuangdeadline.it;Focused+on+Modern+UI/UX+%26+Scalability;Turning+complex+problems+into+elegant+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Studying Computer Science
-- 💼 **Current Focus:** Full Stack Web Development & Mobile Apps
-- 🧠 **Interests:** User-Centered Design, Scalable Systems, Open Source
+- 💻 **Freelance Identity:** Lead Developer at **Pejuangdeadline.it**
+- 🛠️ **Current Focus:** Full Stack Web Development & Mobile Applications
+- 🧠 **Interests:** User-Centered Design, Scalable Architecture, Open Source
 - 📍 **Location:** Indonesia 🇮🇩
 
 ---
@@ -36,7 +36,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -61,20 +60,11 @@
 </picture>
 </div>
 
-### 🐍 Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwanda17/gwanda17/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gwanda17/gwanda17/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/gwanda17/gwanda17/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
 ---
 
 <div align="center">
 
-*"Building digital experiences with a focus on performance, scalability, and clean architecture."*
+*"Transforming complex problems into elegant, user-centric solutions."*
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
